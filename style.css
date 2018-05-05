@@ -1,0 +1,96 @@
+/*
+
+	theme name:ozun2017;
+
+*/
+
+/* for woocommerc pages  */
+.woocommerce .page-title{
+	display:none;
+}
+
+.woocommerce .woocommerce-result-count{
+	font-size:20px;
+	margin-left:20px;
+
+
+}
+
+.woocommerce .woocommerce-ordering{
+	font-size:20px;
+	margin-top:10px;
+	margin-right:20px;
+
+
+}
+
+.woocommerce ul.products{
+	padding: 30px 40px;
+}
+
+.woocommerce ul.products li.product a{
+	font-size:21px;
+}
+
+.woocommerce table.shop_table{
+	width:90%;
+	margin:20px 5%;
+	font-size:21px;
+}
+.wc-proceed-to-checkout a.checkout-button{
+	width:50%;
+}
+
+#coupon_code{
+	width: 50%;
+    font-size: 23px;
+    padding: 16px 30px;
+}
+
+.woocommerce input.button{
+	font-size:25px;
+}
+.woocommerce .col2-set, .woocommerce-page .col2-set{
+	width: 90%;
+    margin: 5%;
+}
+.woocommerce form .form-row input.input-text, .woocommerce form .form-row textarea{
+	padding: 14px 0;
+}
+
+#order_review_heading{
+	margin-left:70px;
+}
+.woocommerce-account .woocommerce-MyAccount-content{
+	font-size:21px;
+}
+.woocommerce-account .woocommerce-MyAccount-navigation{
+	font-size:21px;
+}
+.woocommerce-account .woocommerce-MyAccount-navigation ul{
+	list-style:none;
+}
+
+
+.b-advantages i{
+	display: inline-block;
+  margin-bottom: 32px;
+  font-size: 53px;
+  color: #6533d7;
+  background-image: -webkit-linear-gradient(135deg, #6533d7 0%, #339bd7 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.footer-section ul{
+	list-style: none;
+	
+}
+
+.footer-section{
+	
+	color:#ffffff;
+}
+
+/* pagination css */
+
